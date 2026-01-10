@@ -2,8 +2,8 @@
 ### A few DevOps tasks with solutions 
 
 ## Содержание
-- [Task 1](#task_1)
-- [Task 2](#task_2)
+- [Task 1](#task-1)
+- [Task 2](#task-2)
 ## Task 1
 Description: A developer created a testing program that is continuously writing to a log file /var/log/bad.log and filling up disk. You can check for example with tail -f /var/log/bad.log.
 This program is no longer needed. Find it and terminate it. Do not delete the log file. 
